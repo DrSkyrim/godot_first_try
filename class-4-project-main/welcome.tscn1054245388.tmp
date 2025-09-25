@@ -31,7 +31,7 @@ position = Vector2(248, 258)
 script = ExtResource("3_6vxvv")
 
 [node name="Coffee" parent="." instance=ExtResource("5_6p0ys")]
-position = Vector2(1023, 253)
+position = Vector2(776, 255)
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
