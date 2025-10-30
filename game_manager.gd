@@ -1,6 +1,6 @@
 extends Node
-
-var score:int = 1
+class_name GameManager
+var score:int = 0
 
 func add_point() -> void:
 	score += 1
